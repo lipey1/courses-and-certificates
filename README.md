@@ -8,8 +8,7 @@ It serves as a personal archive and portfolio of my learning journey.
 ## 📂 Repository Structure
 - **/MICROSOFT/** → Certificates issued by Microsoft.  
 - **/LINKEDIN/** → Certificates from LinkedIn Learning.  
-- **/PMI/** → Certificates from Alura courses.  
-- **/OTHERS/** → Other institutions and platforms.  
+- **/PMI/** → Certificates from Project Management Institute.  
 
 ---
 
